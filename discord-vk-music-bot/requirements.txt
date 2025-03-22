@@ -1,4 +1,1 @@
-discord.py
-vk_api
-requests
-beautifulsoup4
+
